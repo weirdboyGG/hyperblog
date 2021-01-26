@@ -1,1 +1,2 @@
 Este es un archivo de texto
+me falto el salto de linea 
