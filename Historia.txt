@@ -1,3 +1,9 @@
 Este es un archivo de texto
 
 mañana nos enfocaremos en otra cosa dice
+
+git rm --cached  -Este comando es para sacar archivos del repositorio, osea removerlos
+git reset --hard -Este comando es para borrar versiones del archivo, volviendo a una version 
+especifica
+checkout  -Este comando es para regresar a una version antigua sin borrar las mas nuevas, es en
+resumen para cambiar de versiones
