@@ -7,3 +7,5 @@ git reset --hard -Este comando es para borrar versiones del archivo, volviendo a
 especifica
 checkout  -Este comando es para regresar a una version antigua sin borrar las mas nuevas, es en
 resumen para cambiar de versiones
+
+Master1
